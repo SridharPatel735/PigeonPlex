@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/fv2McSSv)
-# SE3309_Assignment3_2022
+# SE3309_Assignment3_2023
 
 This repo will contain the data source for your project and the sql files for each questions.
 
@@ -10,7 +9,7 @@ The SQL Folder should include all the required SQL files for each of the questio
 The DUMP folder should contain an exported copy of your database.
 
 
-# NOTES FROM TEAM 10
+# NOTES FROM TEAM 10 (Sridhar Patel, Jeffano John, Ohm Patel, Aarya Patel)
 To run you just need to install libraries required.
 
 To run back end:
