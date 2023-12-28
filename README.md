@@ -9,7 +9,8 @@ The SQL Folder should include all the required SQL files for each of the questio
 The DUMP folder should contain an exported copy of your database.
 
 
-# NOTES FROM TEAM 10 (Sridhar Patel, Jeffano John, Ohm Patel, Aarya Patel)
+# NOTES FROM TEAM 10
+Sridhar Patel, Jeffano John, Ohm Patel, Aarya Patel
 To run you just need to install libraries required.
 
 To run back end:
